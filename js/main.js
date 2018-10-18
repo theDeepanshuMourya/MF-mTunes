@@ -7,13 +7,13 @@ $(function() {
   });
 
   $(window).resize(function(){
-    var w = $(this).width(); if(w > 480 && menu.is(':hidden')) {
+    var w = $(this).width(); if(w > 580 && menu.is(':hidden')) {
       menu.removeAttr('style');
     }
   });
 
   $('nav li').on('click', function(e) {
-    var w = $(window).width(); if(w < 480 ) {
+    var w = $(window).width(); if(w < 580 ) {
       menu.slideToggle();
     }
   });
