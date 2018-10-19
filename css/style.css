@@ -94,7 +94,8 @@ a {
 nav {
   height: 40px;
   width: 100%;
-  color: #fff;
+  background-color: #333;
+  color: #eee;
 }
 nav ul {
   padding: 0;
@@ -110,16 +111,14 @@ nav a {
   text-align: center;
   text-decoration: none;
   padding: 10px 0;
-  color: #fff;
+  color: #eee;
   text-decoration: none;
 }
-
+nav li:hover {
+  background-color: #444;
+}
 nav a#openup {
   display: none;
-}
-
-nav li a:hover {
-  color: #9c9999;
 }
 
 /* Showcase */
