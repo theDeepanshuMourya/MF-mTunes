@@ -41,10 +41,6 @@ $('.cf a').on('click', function(event) {
 
 // Transitions
 window.sr = ScrollReveal();
-sr.reveal('.cf',{
-	duration: 2000,
-	origin: 'bottom'
-});
 
 sr.reveal('.section-main',{
 	duration: 2000,
