@@ -6,5 +6,3 @@ To create mockups, use [Smartmockups](https://smartmockups.com/?status=accepted&
 The responsive menu is by Ash Neilson: [Visit the Codepen](https://codepen.io/neilso/pen/ziwgI)
 
 The transitions effects added when you scroll down have been used from [ScrollReveal](https://scrollrevealjs.org/)
-
-[View The Project](https://thedeepanshumourya.github.io/MF-mTunes/)
